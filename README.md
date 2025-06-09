@@ -24,17 +24,9 @@ A **fully responsive** music player web application inspired by Spotify, built w
 - **CSS Grid/Flexbox** - Modern responsive layout system
 - **Media Queries** - Mobile-first responsive approach
 
-## 🚀 Live Demo
-
-[View Live Demo](https://your-username.github.io/spotify-clone-webapp)
-
 ## 📱 Responsive Design Showcase
 
 This clone is **fully responsive** and adapts beautifully to all screen sizes:
-
-![Desktop View](https://via.placeholder.com/800x400?text=Desktop+View+-+Full+Layout)
-![Tablet View](https://via.placeholder.com/600x800?text=Tablet+View+-+Adapted+Layout)
-![Mobile View](https://via.placeholder.com/400x700?text=Mobile+View+-+Compact+Layout)
 
 ### 📐 Responsive Breakpoints:
 - **Desktop**: 1200px+ (Full layout with sidebar)
@@ -167,9 +159,9 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📧 Contact
 
-Your Name - your.email@gmail.com
+Utkarsh Gupta - utkarshguptatheindian@gmail.com
 
-Project Link: [https://github.com/your-username/spotify-clone-webapp](https://github.com/your-username/spotify-clone-webapp)
+Project Link: [https://github.com/Utkarsh240102/spotify-clone-webapp](https://github.com/Utkarsh240102/spotify-clone-webapp)
 
 ---
 
