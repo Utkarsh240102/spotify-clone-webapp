@@ -161,7 +161,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 Utkarsh Gupta - utkarshguptatheindian@gmail.com
 
-Project Link: [https://github.com/your-username/spotify-clone-webapp](https://github.com/your-username/spotify-clone-webapp)
+Project Link: [https://github.com/your-username/spotify-clone-webapp](https://github.com/Utkarsh240102/spotify-clone-webapp)
 
 ---
 
